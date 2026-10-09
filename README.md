@@ -49,7 +49,6 @@ An **Artificial Intelligence Engineer** passionate about building intelligent sy
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 
 ```dart
 // Ali Gabriel - Profile Config
